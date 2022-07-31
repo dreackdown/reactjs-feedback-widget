@@ -1,6 +1,6 @@
 # React-Feedback-widget
 
-Aplicação para coleta de feedbacks.
+Aplicação para coleta de feedbacks criado na nlw return da rocketseat
 
 ## Stack utilizada
 **Front-end:** React, Axios, Tailwind CSS
